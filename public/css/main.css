@@ -1,0 +1,42 @@
+body{
+	background: url(../img/background.jpg);
+}
+.wrapper{
+	margin-top: 10%;
+	margin-left: 14%;
+}
+
+
+label{
+	font-size: 25px;
+	font-weight: normal;
+	margin-bottom: 10px;
+	display: block;
+	color: white;
+}
+
+.form-control{
+	display: inline-block !important;
+	width: 86% !important;
+	border-radius: 0 !important;
+	background:transparent !important;
+	font-size: 20px;
+	color: white;
+}
+
+.btn{
+	display: inline-block !important;
+	border-radius: 0 !important;
+	margin-top: -8px;
+	font-size: 15px;
+}
+
+.btn-black{
+	color: white;
+	background: black;
+}
+
+.btn-black:hover{
+	color: white;
+	background: black;
+}
